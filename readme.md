@@ -5,7 +5,9 @@
 This website was built as part of the learning material for Code Institute's Fullstack Web Developer program.
 
 <h2><b>Project Description</b></h2>
-This site was created in order to get familiar with common development tools like Gitpod, Git & GitHub, and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program
+This site was created in order to get familiar with common development tools like Gitpod, Git & GitHub, and how to use them to write and manage code. The project itself will display a breakdown of the different technologies used in each of the different sections of the program.
+
+My website's primary purpose is to showcase my web development skills. It allows prospetive employers and collaborators to get an insight into my history and showcase some of my work. 
 
 <h2><b>Technology</b></h2>
 
